@@ -9,14 +9,14 @@
          "description": "一个简单的示例插件",
          "version": "1.0.0",
          "category": "utility",
-         "icon": "",
-         "repository": "https://github.com/mcobs/ObsMCLauncher",
+         "icon": "https://raw.githubusercontent.com/x1aoren/ExamplePlugin/refs/heads/main/icon.png",
+         "repository": "https://github.com/x1aoren/ExamplePlugin",
          "releaseUrl": "",
          "downloadUrl": "",
          "minLauncherVersion": "1.0.0",
          "tags": ["example"],
          "downloads": 0,
-         "rating": 5.0
+         "rating": 4.0
        }
      ]
    }
