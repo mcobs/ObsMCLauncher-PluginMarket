@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "utility",
+      "name": "实用工具",
+      "description": "各种实用工具插件",
+      "icon": "Tool"
+    },
+    {
+      "id": "appearance",
+      "name": "外观美化",
+      "description": "皮肤、主题等美化插件",
+      "icon": "Palette"
+    },
+    {
+      "id": "management",
+      "name": "管理工具",
+      "description": "版本管理、备份等工具",
+      "icon": "Folder"
+    },
+    {
+      "id": "integration",
+      "name": "服务集成",
+      "description": "第三方服务集成插件",
+      "icon": "Link"
+    },
+    {
+      "id": "enhancement",
+      "name": "功能增强",
+      "description": "扩展启动器功能的插件",
+      "icon": "Star"
+    }
+  ]
+}
