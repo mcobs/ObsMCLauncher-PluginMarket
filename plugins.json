@@ -9,8 +9,8 @@
 		"description": "示例插件，加载后显示欢迎通知",
 		"version": "1.0.0",
 		"category": "utility",
-		"repository": "https://github.com/mcobs/ObsMCLauncher-HelloPlugin",
-		"releaseUrl": "https://api.github.com/repos/mcobs/ObsMCLauncher-HelloPlugin/releases/latest",
+		"repository": "https://github.com/x1aoren/ExamplePlugin",
+		"releaseUrl": "https://api.github.com/repos/x1aoren/ExamplePlugin/releases/latest",
 		"assetPattern": "HelloPlugin",
 		"minLauncherVersion": "1.0.0",
 		"tags": ["Windows", "example"]
